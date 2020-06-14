@@ -1,6 +1,6 @@
 <?php
  
-$strAccessToken = "เอาโทเค่น ไลน์ใส่ตรงนี้เด้อกาย";
+$strAccessToken = "EaU5NbZzQ1ukQVxZzCpovFjfExuJ2wAYFlJwIuGWu2k3h+NT8Vfk7PqeL5yghE4szf/oP1SZUaRTGfV9oydpnPM910Iua0EgEkfJW9ZCZ0+lF3FewLFyqCBARUMFsmG7wwTiHt09pFjKv5kFH1M70wdB04t89/1O/w1cDnyilFU=";
  
 $content = file_get_contents('php://input');
 $arrJson = json_decode($content, true);
